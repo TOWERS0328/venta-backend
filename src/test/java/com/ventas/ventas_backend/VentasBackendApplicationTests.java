@@ -1,0 +1,13 @@
+package com.ventas.ventas_backend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VentasBackendApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
